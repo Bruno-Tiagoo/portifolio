@@ -19,7 +19,7 @@ nav ul li {
 
 nav ul li a {
     display: inline-block;
-    padding: 10px 15px;
+    padding: 11px 15px;
     color: white;
     text-decoration: none;
 }
@@ -32,3 +32,4 @@ nav ul li a:hover {
 h1 {
     color: #333;
 }
+
